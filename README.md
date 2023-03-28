@@ -1,2 +1,66 @@
-# 08.PJGP-MOD4-Formula_1_Race
+# <div align="center"> Projeto do Módulo 4 Resilia
+
+## <div align="center"> 🧭 OBJETIVO
+
+Nesse projeto você e sua squad deverão montar um dashboard com base no conjunto de dados escolhidos por vocês, a fim de realizar uma apresentação com a exploração dos dados. Foi escolhido pelo grupo fazer a análise de dados sobre Formula 1. 
+Dessa forma, com base no banco de dados fornecido previamente, executamos o software MySQL Workbench e Power BI.
+
+ ## <div align="center"> Tecnologias Utilizadas
+  <div align="center"><br>
+  <img align="center" alt="MySql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Canva" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Canva" height="60" width="100" src="https://cetax.com.br/wp-content/uploads/2016/10/PowerBI-e1557666264791.jpg" />
+  
+
+## <div align="center"> 📝 Etapas
+
+    Busca dos dados;
+    Criação de perguntas;
+    Tratamento dos dados;
+    Criação de gráficos;
+    Criação do diagrama de entidade e relacionamento;
+    Criação da Apresentação.
+
+## 📋 Perguntas
+
+ Durante o Brainstorm sobre perguntas que podem ser respondidas pelos dados selecionamos as seguintes perguntas:
+
+    Qual nome do circuito onde aconteceu a corrida de 26/04/2009?
+    Quantas corridas tiveram o tempo de 7:00:00 entre os anos de 2009 a 2005?
+    Quantas vezes ocorreram corridas no circuito de Australian Grand Prix?
+    Qual o tempo record (menor tempo para completar a prova) dentre todas as corridas?
+    Em que ano ocorreu  a corrida de número 18?
+
+## 🔖 RESULTADOS
+
+Obtivemos o seguinte Dashboard 
+
+
+### EXECUTAMOS OS SEGUINTES FILTROS 
+
+1- Qual nome do circuito onde aconteceu a corrida de 26/04/2009?
+
+![pergunta01](https://user-images.githubusercontent.com/100206471/228379178-36e05fb6-d6c2-44eb-8cfd-efd4e351b157.png)
+
+2- Quantas corridas tiveram o tempo de 7:00:00 entre os anos de 2009 a 2005?
  
+ ![pergunta02](https://user-images.githubusercontent.com/100206471/228379727-d1b875ea-db90-4890-9525-b8eff487c94a.png)
+
+3- Qual o tempo record (menor tempo para completar a prova) dentre todas as corridas?
+
+![pergunta04](https://user-images.githubusercontent.com/100206471/228379788-1cf4d3da-8d4c-4adc-b2cc-f5e98dd33e2f.png)
+
+4- Quantas vezes ocorreram corridas no circuito de Australian Grand Prix?
+
+![pergunta03](https://user-images.githubusercontent.com/100206471/228379752-474415bf-79da-45d2-a77e-fc77b381d8d2.png)
+
+5- Em que ano ocorreu  a corrida de número 18?
+
+![pergunta05](https://user-images.githubusercontent.com/100206471/228379808-98a85dc2-b1f3-4a9f-a646-0cc4348410c0.png)
+
+
+
+
+
+
+
