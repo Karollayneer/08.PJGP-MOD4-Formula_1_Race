@@ -63,7 +63,7 @@ Obtivemos o seguinte Dashboard
  
 
 ![image](https://user-images.githubusercontent.com/81834452/228678391-25515190-d966-4aa5-a444-794719b711e4.png)
-![image](https://user-images.githubusercontent.com/81834452/228678531-0709b8c0-ce98-4a4b-8797-e44b5a88c8a2.png)
+![image](https://user-images.githubusercontent.com/81834452/228682367-c1b5a96e-eabb-4d92-a552-0ccd5e7abe7f.png)
 ![image](https://user-images.githubusercontent.com/81834452/228678588-24733968-279e-4175-8b38-a2276dec46d9.png)
 ![image](https://user-images.githubusercontent.com/81834452/228678702-ec096764-f8f3-4bed-982f-b84c17cd226a.png)
    
