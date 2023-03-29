@@ -58,8 +58,17 @@ Obtivemos o seguinte Dashboard
 
 ![pergunta05](https://user-images.githubusercontent.com/100206471/228379808-98a85dc2-b1f3-4a9f-a646-0cc4348410c0.png)
 
+ 
+## <div align="center"> Dashboard
+ 
 
-## 🤝 DESENVOLVEDORES
+![image](https://user-images.githubusercontent.com/81834452/228678391-25515190-d966-4aa5-a444-794719b711e4.png)
+![image](https://user-images.githubusercontent.com/81834452/228678531-0709b8c0-ce98-4a4b-8797-e44b5a88c8a2.png)
+![image](https://user-images.githubusercontent.com/81834452/228678588-24733968-279e-4175-8b38-a2276dec46d9.png)
+![image](https://user-images.githubusercontent.com/81834452/228678702-ec096764-f8f3-4bed-982f-b84c17cd226a.png)
+   
+   
+ ## 🤝 DESENVOLVEDORES
 
     Karolayne Rodrigues
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&%22width=%2260&link=https:https://www.linkedin.com/in/lucascanella-dados/)](https://www.linkedin.com/in/karolayne-rodrigues-794164245/)
@@ -81,14 +90,6 @@ Obtivemos o seguinte Dashboard
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/lucascanella-dados/)]()
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)]()
 
- 
-## <div align="center"> Dashboard
- 
-
-![image](https://user-images.githubusercontent.com/81834452/228678391-25515190-d966-4aa5-a444-794719b711e4.png)
-![image](https://user-images.githubusercontent.com/81834452/228678531-0709b8c0-ce98-4a4b-8797-e44b5a88c8a2.png)
-![image](https://user-images.githubusercontent.com/81834452/228678588-24733968-279e-4175-8b38-a2276dec46d9.png)
-![image](https://user-images.githubusercontent.com/81834452/228678702-ec096764-f8f3-4bed-982f-b84c17cd226a.png)
 
 
 
