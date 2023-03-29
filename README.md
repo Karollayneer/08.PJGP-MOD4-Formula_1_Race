@@ -82,7 +82,8 @@ Obtivemos o seguinte Dashboard
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white%22width=%2260)]()
 
  
-Dashboard
+## <div align="center"> Dashboard
+ 
 
 ![image](https://user-images.githubusercontent.com/81834452/228678391-25515190-d966-4aa5-a444-794719b711e4.png)
 ![image](https://user-images.githubusercontent.com/81834452/228678531-0709b8c0-ce98-4a4b-8797-e44b5a88c8a2.png)
